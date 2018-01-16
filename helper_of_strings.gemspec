@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Learning about gems'
   spec.description   = 'Learning how to publish gems'
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/anthonykelley/ruby_gem"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
