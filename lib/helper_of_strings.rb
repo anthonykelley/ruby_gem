@@ -1,4 +1,5 @@
 require "helper_of_strings/version"
+require "helper_of_strings/greetings"
 
 module HelperOfStrings
 
@@ -25,5 +26,5 @@ module HelperOfStrings
 
     new_string
   end
-  
+
 end
